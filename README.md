@@ -7,7 +7,7 @@
 **指導老師: 陳彥安**
 
 ## 架構說明
-<img src="pics/1.png" width="200px" height="200px">
+<img src="pics/1.PNG" width="200px" height="200px">
 
 ## 作品主題說明
 * 主要設計給視障者使用
